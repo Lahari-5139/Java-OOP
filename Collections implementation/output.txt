@@ -1,0 +1,19 @@
+1a: a collection sometimes called container is simply an object that groups multiple elements into single unit collections framework helps manipulate creating sets of etc
+1b: a an called collection collections container creating elements etc framework groups helps into is manipulate multiple object of sets simply single sometimes that unit
+1c: a an is of etc into sets that unit helps called groups object simply single creating elements multiple container framework sometimes collection manipulate collections
+1d: collection sometimes called container is simply an object that groups multiple into single unit framework helps manipulate creating sets of etc elements collections a
+2a:
+a 5
+c 6
+e 3
+f 1
+g 1
+h 1
+i 2
+m 2
+o 2
+s 4
+t 1
+u 1
+3a: groups elements collections
+3b: elements collections groups
